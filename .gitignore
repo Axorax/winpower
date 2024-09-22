@@ -1,0 +1,7 @@
+env/
+__pycache__/
+*-report.html
+*.spec
+*.txt
+dist/
+build/
